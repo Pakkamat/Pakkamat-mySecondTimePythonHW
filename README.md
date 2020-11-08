@@ -1,1 +1,0 @@
-# Pakkamat-mySecondTimePythonHW

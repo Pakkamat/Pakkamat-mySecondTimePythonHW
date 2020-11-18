@@ -6,9 +6,9 @@ while turns > 0:
     # Print the words that contain in word put in y
     for i in word:
         if i in y:
-            print(i, end= ' ')
+            print(i, end=' ')
         else:
-            print("_", end = ' ')
+            print("_", end=' ')
             failed += 1
     # If u have all word == Win
     if failed == 0:
